@@ -27,5 +27,6 @@ Modified version of Spotify, removes all on screen advertisements and advertisem
  Run "SpotifyPatch.bat" 
  Open Spotify and login
  Enjoy ad-free music and podcasts
+ Malware found: TScope.Malware-Cryptor.SB
  ```
 
